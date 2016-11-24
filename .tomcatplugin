@@ -7,5 +7,5 @@
     <updateXml>true</updateXml>
     <warLocation></warLocation>
     <extraInfo></extraInfo>
-    <webPath>/TestReservationE</webPath>
+    <webPath>/RoomReservation</webPath>
 </tomcatProjectProperties>
