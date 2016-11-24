@@ -8,5 +8,4 @@ public class DataBaseProperty {
 	static final public String DB_USERNAME = "SeReservation";
 
 	static final public String DB_PASSWORD = "SeReservation";
-
 }
