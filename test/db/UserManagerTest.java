@@ -1,4 +1,4 @@
-﻿package db;
+package db;
 
 import static org.hamcrest.CoreMatchers.is;
 import static org.hamcrest.CoreMatchers.nullValue;
@@ -105,3 +105,4 @@ public class UserManagerTest {
 	}
 
 }
+

@@ -1,4 +1,4 @@
-﻿package servlet;
+package servlet;
 
 import static org.hamcrest.CoreMatchers.*;
 import static org.junit.Assert.*;
@@ -67,3 +67,4 @@ public class LoginServletTest extends TestServlet {
 	}
 
 }
+
